@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '31380'
     url: http://www.gutenberg.org/2009/agents/31380
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25504#Khartoum-Campaign-1898or-the-Re-Conquest-of-the-Soudan
 gutenberg_issued: '2008-05-17'
 gutenberg_type: Text
 identifiers:
